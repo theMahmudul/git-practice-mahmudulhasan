@@ -1,17 +1,30 @@
 # Git Practice Project
 
-## Name
+## Author
+
 Mahmudul Hasan
 
-## Project Description
+## About
 
-This project is created to practice Git and GitHub.
+This project is a Python-based Git practice project to demonstrate
+basic Git and GitHub workflows.
 
-It demonstrates:
+## Features
 
-- Git repository initialization
-- Commits
-- Branches
-- Merging
-- GitHub collaboration
-- Basic Python
+- Addition
+- Subtraction
+- Python date display
+- Git branching
+- Git merging
+- GitHub repository management
+
+## Project Structure
+
+git-practice-mahmudulhasan/
+├── README.md
+├── .gitignore
+├── src/
+│   ├── main.py
+│   └── utils.py
+└── docs/
+    └── project-description.md
