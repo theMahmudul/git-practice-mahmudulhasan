@@ -19,7 +19,7 @@ basic Git and GitHub workflows.
 - GitHub repository management
 
 ## Project Structure
-
+```
 git-practice-mahmudulhasan/
 ├── README.md
 ├── .gitignore
@@ -28,3 +28,4 @@ git-practice-mahmudulhasan/
 │   └── utils.py
 └── docs/
     └── project-description.md
+```
