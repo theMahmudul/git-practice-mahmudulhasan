@@ -5,7 +5,7 @@ from utils import add, subtract, multiply, divide
 print("Name: Mahmudul Hasan")
 print("Today's date is:", date.today())
 
-print("## Git Practice Calculator ###")
+print("\n###Git Practice Calculator####")
 
 print("Addition:", add(10, 5))
 print("Subtraction:", subtract(10, 5))
